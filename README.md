@@ -1,5 +1,3 @@
-# Python-data-structure-assignment
-Python Data Structure
 # Python Data Structures Assignment
 
 This repository contains solutions for Assignment 1 covering:
